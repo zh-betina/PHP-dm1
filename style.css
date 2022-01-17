@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Quicksand:wght@400;700&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: #6867AC;
+    color: #FFBCD1;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CE7BB0;
+    padding: 2rem;
+    max-width: 50%;
+}
+
+pre {
+    color: #FFFDDE;
+    background-color: rgba(117, 5, 80, 20%);
+    padding: .4rem 0;
+    border-radius: 8px;
+}
+
+table tr td {
+    border: 1px solid #D9D7F1;
+}
+
+td {
+    padding: 5px;
+}
